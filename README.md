@@ -1,2 +1,76 @@
-# Library-_AI-_Chatbot
-Library AI Chatbot is an intelligent assistant that helps students find course-relevant books based on their semester and subject using a chat interface. Built using HTML, CSS, and JavaScript with a smart search algorithm. It simulates how AI can personalize the academic library experience.
+# 📚 Library AI Chatbot
+
+An AI-powered chatbot designed to help students find relevant books from the library database based on their semester, subject, and course. Built using HTML, CSS, and JavaScript with intelligent search logic.
+
+---
+
+## 🚀 Features
+
+- 💬 Chat interface to ask for books (e.g., "4th semester DBMS book chahiye")
+- 📖 Dummy library dataset across multiple semesters & courses (BCA, B.Tech, BSc IT)
+- ⚡ Smart response with availability check
+- 🌙 Dark UI with typing animation
+- 💡 Easily customizable and extendable
+
+---
+
+## 📁 Project Structure
+
+📂 library-chatbot
+├── index.html # Chat UI
+├── style.css # Dark mode styling
+├── script.js # Chatbot logic with sample book data
+└── README.md # Project documentation
+
+
+---
+
+## 🧠 How It Works
+
+1. User types a message like “semester 3 OS book chahiye”
+2. Script matches keywords (semester + subject) from a predefined dataset
+3. Displays if the book is available or not in real-time
+
+---
+
+## 🛠️ Technologies Used
+
+- HTML5
+- CSS3
+- JavaScript (Vanilla)
+- [Optionally extend with IBM Watson Assistant 🤖]
+
+---
+
+## 🖼️ Preview
+
+
+
+## 🔧 How to Run
+
+1. Clone this repository or [Download ZIP](#)
+2. Open `index.html` in any browser
+3. Start chatting with the AI bot!
+
+---
+
+## 🧩 Future Improvements
+
+- Integration with real-time book database or API
+- Add Watson Assistant or IBM Granite support
+- Voice input for accessibility
+- Student login system
+
+---
+
+## 🙋‍♀️ Made by
+
+**Gunjan Kumari**  
+📘 BCA Student | IBM Intern | AI Chatbot Developer
+
+---
+
+## 📄 License
+
+MIT License – feel free to use, modify, and share!
+
