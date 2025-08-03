@@ -38,7 +38,6 @@ An AI-powered chatbot designed to help students find relevant books from the lib
 - HTML5
 - CSS3
 - JavaScript (Vanilla)
-- [Optionally extend with IBM Watson Assistant 🤖]
 
 ---
 
@@ -67,6 +66,27 @@ An AI-powered chatbot designed to help students find relevant books from the lib
 - Student login system
 
 ---
+
+
+## ✅ Results
+
+The Library AI Chatbot successfully simulates a smart recommendation system for students by:
+
+- 📖 Suggesting relevant books based on semester, subject, and course
+- 🔍 Filtering out unavailable titles and notifying the user
+- 🤖 Offering a real-time chat-like experience through a dark-themed, responsive UI
+- 📊 Demonstrating how AI-powered assistants can be used to enhance academic access to resources
+
+**Example Results:**
+
+- **User Input:** "4th semester DBMS book chahiye"  
+  **Bot Output:** ✅ *"DBMS by Korth is available for B.Tech Semester 4."*
+
+- **User Input:** "1st sem C programming"  
+  **Bot Output:** ❌ *"Let Us C is not currently available."*
+
+These results reflect the system’s ability to understand queries and return personalized book matches, enhancing the user experience for library resource discovery.
+
 
 ## 🙋‍♀️ Made by
 
