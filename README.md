@@ -45,7 +45,7 @@ An AI-powered chatbot designed to help students find relevant books from the lib
 ## 🖼️ Preview
 ![image alt](https://github.com/Gunj08/Library-_AI-_Chatbot/blob/9ac13a7637a4ba5f4e60c385a9f2c72186372403/Screenshot%202025-08-03%20193922.png)
 ![image alt](https://github.com/Gunj08/Library-_AI-_Chatbot/blob/98bcfd161c459c6eaee2fbdf933ceb38e30b8aab/Screenshot%202025-08-03%20193946.png)
-
+![image alt](https://github.com/Gunj08/Library-_AI-_Chatbot/blob/43c9ea45430b4538ab419edacc9b56f7c46369a8/Screenshot%202025-08-03%20194011.png)
 
 ## 🔧 How to Run
 
