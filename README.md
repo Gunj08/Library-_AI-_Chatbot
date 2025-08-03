@@ -43,7 +43,7 @@ An AI-powered chatbot designed to help students find relevant books from the lib
 ---
 
 ## 🖼️ Preview
-
+![image alt]()
 
 
 ## 🔧 How to Run
