@@ -52,7 +52,7 @@ An AI-powered chatbot designed to help students find relevant books from the lib
 
 ## 🔧 How to Run
 
-1. Clone this repository or [Download ZIP](#)
+1. Clone this repository
 2. Open `index.html` in any browser
 3. Start chatting with the AI bot!
 
