@@ -51,7 +51,7 @@ An AI-powered chatbot designed to help students find relevant books from the lib
 
 ## MY Certificate
 ![image alt](https://github.com/Gunj08/Library-_AI-_Chatbot/blob/main/Journy_to_cloud_page-0001.jpg?raw=true)
-![image alt]()
+![image alt](https://github.com/Gunj08/Library-_AI-_Chatbot/blob/main/RAG_Lab.jpg?raw=true)
 ![image alt]()
 
 
